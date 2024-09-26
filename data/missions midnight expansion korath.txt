@@ -127,7 +127,7 @@ mission "Midnight Expansion: Korath Warlord"
 		event "korath warlord development" 20
 		conversation
 			scene "thumbnail/AESmisc kar_ik_vot_637"
-			`	The Remnant run intensive scans on the unfamiliar ship as you approach the spaceport. Taely has a team of researchers ready to do a thorough inspection of the vessel as soon as you open the entry hatch. Their inspection is quick and effecient. After only a few hours they're done with the ship. "The level of automation is amazing," Taely signs. "The ship almost flies itself."`
+			`	The Remnant run intensive scans on the unfamiliar ship as you approach the spaceport. Taely has a team of researchers ready to do a thorough inspection of the vessel as soon as you open the entry hatch. Their inspection is quick and efficient. After only a few hours they're done with the ship. "The level of automation is amazing," Taely signs. "The ship almost flies itself."`
 
 ship "Korath Warlord" "Korath Warlord (Prototype)"
 	add attributes
